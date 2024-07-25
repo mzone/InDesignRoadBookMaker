@@ -110,8 +110,8 @@ function getLineData(lineData, keyName) {
 //----------------------------------------------------------
 
 // roadbook.txtのデータを整形する
-function getFileData(filePath) {
-  const dataFile = File(filePath);
+function getFileData() {
+  const dataFile = File.openDialog("Select a .csv file to open:");
   if (!dataFile.exists) {
     alert(filePath + "が見つかりません。");
     return [];
@@ -268,7 +268,7 @@ function setMapPage(pageData, textFrames) {
 // 初期処理
 (function () {
   // ファイルデータの読み込み
-  var dataLines = getFileData(File($.fileName).path + "/roadbook.txt");
+  var dataLines = getFileData();
   var pages = formatLineDataForPages(dataLines);
 
   // 今開いているinDesignドキュメントを取得
