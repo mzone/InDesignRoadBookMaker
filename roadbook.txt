@@ -1,0 +1,42 @@
+page-master	leg	section	from_point_no	from_point_name	ss_no	ss_name	ss_dist	ss_average	ss_record	to_point_no	to_point_name	liaison_dist	liaison_average	target_time	total	partial	dist_to_go	direction_no	stage_type	page_label
+,,,,,,,,,,map	1	1	TC0	丹後王国						TC1	スイス村	21.95 	32.9 	40min	0.00 	0.00 	21.95 	1
+map															0.08 	0.08 	21.87 	2
+map															0.33 	0.25 	21.62 	3
+map															1.05 	0.72 	20.90 	4
+map															1.39 	0.34 	20.56 	5
+map															4.78 	3.39 	17.17 	6
+map															6.91 	2.13 	15.04 	7
+map															18.16 	11.25 	3.79 	8
+map															21.70 	3.54 	0.25 	9
+map															21.95 	0.25 	0.00 	10
+map															22.12 	0.17 	0.00 	11
+ss,pp	1	1	TC1	スイス村	SS1	Tsunotsuki	9.32			TC2	上世屋	3.24 	19.4 	20min	0.00 	0.00 	0.00 		SPECIAL STAGE	SS 1 / 4  : Tsunotsuki
+map	1	1	TC1	スイス村	SS1	Tsunotsuki	9.32			TC2	上世屋	3.24 	19.4 	20min	0.00 	0.00 	12.56 	1
+map															2.29 	2.29 	10.27 	2
+map															5.03 	2.74 	7.53 	3
+map															6.33 	1.30 	6.23 	4
+map															9.32 	2.99 	3.24 	5
+map															9.54 	0.22 	3.02 	6
+map															11.65 	2.11 	0.91 	7
+map															12.28 	0.63 	0.28 	8
+map															12.56 	0.28 	0.00 	9
+map															12.69 	0.13 	0.00 	10
+ss,pp	1	1	TC2	上世屋	SS2	Nariai	13.19			TC2A	三重	11.85 	28.4 	40min	0.00 	0.00 	0.00 		SPECIAL STAGE	SS 2 / 5  : Nariai
+map	1	1	TC2	上世屋	SS2	Nariai	13.19			TC2A	三重	11.85 	28.4 	40min	0.00 	0.00 	25.04 	1
+map															0.44 	0.44 	24.60 	2
+map															1.42 	0.98 	23.62 	3
+map															4.09 	2.67 	20.95 	4
+map															5.29 	1.20 	19.75 	5
+map															8.31 	3.02 	16.73 	6
+map															11.76 	3.45 	13.28 	7
+map															13.19 	1.43 	11.85 	8
+map															13.45 	0.26 	11.59 	9
+map															13.55 	0.10 	11.49 	10
+map															14.80 	1.25 	10.24 	11
+map															15.93 	1.13 	9.11 	12
+map															17.96 	2.03 	7.08 	13
+map															20.33 	2.37 	4.71 	14
+map															24.10 	3.77 	0.94 	15
+map															25.04 	0.94 	0.00 	16
+map															25.17 	0.13 	0.00 	17
+ss	1	1									サービスIN（京都府丹後文化会館駐車場）				0.00 	0.00 	0.00 		京都府丹後文化会館駐車場	TC2A

@@ -1,4 +1,4 @@
-var IS_EDIT = false;
+var IS_EDIT = true;
 
 var EDIT_TARGET_START_PAGE = 0;// 編集対象の開始ページ 0は最初から
 var EDIT_TARGET_END_PAGE = 0;// 編集対象の終了ページ 0は最後まで
